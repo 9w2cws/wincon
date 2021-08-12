@@ -6,3 +6,5 @@ vince: creating readme file.
 4. fourth comment.
 
 Master change form vs2019
+
+Do may own thing on branch-from-vs2019main
